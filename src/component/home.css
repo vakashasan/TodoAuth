@@ -1,0 +1,40 @@
+.todo {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(0, 24, 241, 0.041);
+}
+
+.uibtn {
+  justify-self: right;
+  margin-left: 10px;
+}
+
+.homepagediv {
+  margin: 10px;
+  padding: 10px;
+  background-color: whitesmoke;
+  display: inline-block;
+  border-radius: 10px;
+}
+.todoinput {
+  display: flex;
+  margin: 5%;
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+}
+
+.btn {
+  padding: 15px;
+  margin-left: 10px;
+}
+
+.signupdiv {
+  background-color: white;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 10px;
+  vertical-align: middle;
+}

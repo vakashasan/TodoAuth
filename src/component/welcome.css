@@ -1,0 +1,13 @@
+.logindiv {
+  vertical-align: middle;
+  text-align: center;
+  display: inline-block;
+
+  border-radius: 10px;
+  background-color: white;
+  justify-content: center;
+  padding: 20px;
+  float: right;
+  margin-right: 10%;
+  margin-top: 10%;
+}

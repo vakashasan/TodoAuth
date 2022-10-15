@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url(https://ese2240.seas.upenn.edu/wp-content/uploads/2018/11/background-website-light-blue-wallpapers-background-2.jpg);
+  height: 100vh;
+  width: 100vw;
+  color: black;
+}
